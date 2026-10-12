@@ -1,16 +1,22 @@
-## Hi there 👋
+# བཀྲ་ཤིས་བདེ་ལེགས། 👋
 
-<!--
-**webuddhist-gade/webuddhist-gade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ངའི་མིང་ནི་ **Tenzin** ཡིན། **Dharmaduta Services LLP** ནང་ལས་དོན་འཛིན་སྐྱོང་པ་དང་། **Naglha Publishing House** ཀྱི་རྩོམ་སྒྲིག་པ་ཡིན།
+བོད་ཀྱི་ཆོས་ཡིག་ཚགས་ཉར་ཚགས་དང་། དྲ་ཐོག་ལ་འགོད་པའི་ལས་འགུལ་ལ་དམིགས་ནས་ལས་ཀ་བྱེད་ཀྱི་ཡོད།
 
-Here are some ideas to get you started:
+Hi, I'm **Tenzin** — Executive Manager at **Dharmaduta Services LLP** and an editor at **Naglha Publishing House**.
+I work on preserving and digitizing Tibetan Buddhist texts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 ད་ལྟའི་ལས་འགན། / What I work on
+
+- **Tibetan OCR** — བོད་ཡིག་དབུ་ཅན་གྱི་ཡིག་ཚགས་ OCR དང་གཅོད་སྒྲིག
+- **WeBuddhist** — Buddhist text platform with Indrajala
+- **Tibetan Wikipedia** — བོད་ཀྱི་ཝི་ཀི་རིག་མཛོད་ལ་ཆོས་ཀྱི་གཞུང་ལུགས་འགོད་པ།
+- **Text pipeline** — Buddhist text processing and quality-checking workflows
+
+## 🌐 འབྲེལ་ཡོད། / Links
+
+- Dharmaduta: <https://dharmaduta.in/>
+
+## 📍 Location
+
+India 🇮🇳 · Working from home 🏠
