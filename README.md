@@ -1,22 +1,20 @@
-# བཀྲ་ཤིས་བདེ་ལེགས། 👋
+བཀྲ་ཤིས་བདེ་ལེགས། 👋
 
-ངའི་མིང་ནི་ **Tenzin** ཡིན། **Dharmaduta Services LLP** ནང་ལས་དོན་འཛིན་སྐྱོང་པ་དང་། **Naglha Publishing House** ཀྱི་རྩོམ་སྒྲིག་པ་ཡིན།
-བོད་ཀྱི་ཆོས་ཡིག་ཚགས་ཉར་ཚགས་དང་། དྲ་ཐོག་ལ་འགོད་པའི་ལས་འགུལ་ལ་དམིགས་ནས་ལས་ཀ་བྱེད་ཀྱི་ཡོད།
+ངའི་མིང་ནི་དགའ་བདེ་ཡིན། ཆོས་ཀྱི་ཕོ་ཉའི་ནང་པའི་རྒྱུ་ཆ་རྩོམ་སྒྲིག་འགན་འཁུར་བ་ཞིག་ཡིན། 
 
-Hi, I'm **Tenzin** — Executive Manager at **Dharmaduta Services LLP** and an editor at **Naglha Publishing House**.
-I work on preserving and digitizing Tibetan Buddhist texts.
+Hi, I'm དགའ་བདེ་ — Executive Manager at Dharmaduta Services LLP and I work on preserving and digitizing Tibetan Buddhist texts.
 
-## 🔧 ད་ལྟའི་ལས་འགན། / What I work on
+🔧 ད་ལྟའི་ལས་འགན། / What I work on
+Tibetan OCR — བོད་ཡིག་དབུ་ཅན་གྱི་ཡིག་ཆ་ OCR དང་དག་བཅོས། / OCR and proofreading of Tibetan uchen texts
+WeBuddhist — Indrajala དང་མཉམ་ལས་བྱས་པའི་ནང་ཆོས་ཡིག་རྒྱུན་གྱི་སྟེགས་བུ། / Buddhist text platform, with Indrajala
+Tibetan Wikipedia — བོད་ཀྱི་ཝི་ཀི་རིག་མཛོད་ལ་ནང་ཆོས་གཞུང་གི་རྩོམ་ཡིག་འགོད་པ། / Articles on Buddhist canonical texts
+Text pipeline — ནང་ཆོས་ཡིག་ཆ་ཐག་གཅོད་ཀྱི་ལས་རིམ་དང་སྤྱོད་རིགས་ཞིབ་བཤེར། / Text processing and quality-checking workflows
+🌐 འབྲེལ་ཡོད། / Links
+🏢 Dharmaduta — https://dharmaduta.in/
+📍 གནས་ཡུལ། / Location
 
-- **Tibetan OCR** — བོད་ཡིག་དབུ་ཅན་གྱི་ཡིག་ཚགས་ OCR དང་གཅོད་སྒྲིག
-- **WeBuddhist** — Buddhist text platform with Indrajala
-- **Tibetan Wikipedia** — བོད་ཀྱི་ཝི་ཀི་རིག་མཛོད་ལ་ཆོས་ཀྱི་གཞུང་ལུགས་འགོད་པ།
-- **Text pipeline** — Buddhist text processing and quality-checking workflows
+India 🇮🇳 · ཁྱིམ་ནས་ལས་དོན་བྱེད་བཞིན་ཡོད། / Working from home 🏠
 
-## 🌐 འབྲེལ་ཡོད། / Links
+📫 འབྲེལ་བ། / Contact
 
-- Dharmaduta: <https://dharmaduta.in/>
-
-## 📍 Location
-
-India 🇮🇳 · Working from home 🏠
+(ཁྱེད་ཀྱི་ email ཡང་ན་ website འདིར་སྣོན།)
